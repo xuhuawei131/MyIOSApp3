@@ -1,5 +1,5 @@
-##MyIOSApp3<br/>
-##7-2<br/>
+MyIOSApp3<br/>
+7-2<br/>
 如果与控件相关联的行为事件函数名称改变了，那么函数的实心圆就变空心的了，这时候必须删除控件与原来函数的绑定关系，如何解绑呢！<br/>
 ![image](https://github.com/xuhuawei131/MyIOSApp3/blob/master/raw/master/ScreenShots/modifySystemMethod.png)
 点击故事版，然后选中控件，在右边栏上面最后边有一个向右的剪头标志，<br/>
