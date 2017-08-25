@@ -14,7 +14,7 @@ MyIOSApp3<br/>
 我们可以点击刚才send event下面的事件动作列表中指定事件动作旁边的加号，然后拖动到我们的函数上就关联上了！<br/>
 
 
-作业
-switch开关
-imageview图片控件
+作业<br/>
+switch开关<br/>
+imageview图片控件<br/>
 控件可以通过下面的搜索栏 快速检索我们要找的控件
